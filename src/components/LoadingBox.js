@@ -1,11 +1,11 @@
-// import React from 'react'
+import React from 'react'
 
-// function LoadingBox() {
-//   return (
-//     <div>
-//       <i className='fa fa-spinner fa-span'></i> Loading....
-//     </div>
-//   )
-// }
+function LoadingBox() {
+  return (
+    <div>
+      <i className='fa fa-spinner fa-span'></i> Loading....
+    </div>
+  )
+}
 
-// export default LoadingBox;
+export default LoadingBox;
